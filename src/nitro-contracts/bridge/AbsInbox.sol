@@ -1,4 +1,3 @@
-    NotOrigin,
     NotRollupOrOwner,
     RetryableData
 } from "@arbitrum/nitro-contracts/src/libraries/Error.sol";
