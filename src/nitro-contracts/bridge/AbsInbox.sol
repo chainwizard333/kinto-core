@@ -1,4 +1,3 @@
-    NotAllowedOrigin,
     NotOrigin,
     NotRollupOrOwner,
     RetryableData
