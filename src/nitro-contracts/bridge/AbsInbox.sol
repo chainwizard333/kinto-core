@@ -1,4 +1,3 @@
-    InsufficientValue,
     InsufficientSubmissionCost,
     L1Forked,
     NotAllowedOrigin,
