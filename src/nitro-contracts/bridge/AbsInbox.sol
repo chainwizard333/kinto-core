@@ -1,4 +1,3 @@
-    DataTooLarge,
     GasLimitTooLarge,
     InsufficientValue,
     InsufficientSubmissionCost,
