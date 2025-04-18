@@ -1,4 +1,3 @@
-    RetryableData
 } from "@arbitrum/nitro-contracts/src/libraries/Error.sol";
 import "@arbitrum/nitro-contracts/src/bridge/IInboxBase.sol";
 import "@arbitrum/nitro-contracts/src/bridge/ISequencerInbox.sol";
