@@ -1,5 +1,3 @@
-import "@openzeppelin/contracts-upgradeable/utils/StorageSlotUpgradeable.sol";
-
 /**
  * @title Inbox for user and contract originated messages
  * @notice Messages created via this inbox are enqueued in the delayed accumulator
