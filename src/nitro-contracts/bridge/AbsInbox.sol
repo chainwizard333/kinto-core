@@ -1,4 +1,3 @@
-    L1Forked,
     NotAllowedOrigin,
     NotOrigin,
     NotRollupOrOwner,
