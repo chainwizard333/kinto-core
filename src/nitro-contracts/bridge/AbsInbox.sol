@@ -1,5 +1,3 @@
-import {
-    L1MessageType_submitRetryableTx,
     L2MessageType_unsignedContractTx,
     L2MessageType_unsignedEOATx,
     L2_MSG
