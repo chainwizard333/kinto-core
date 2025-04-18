@@ -1,4 +1,3 @@
-    GasLimitTooLarge,
     InsufficientValue,
     InsufficientSubmissionCost,
     L1Forked,
