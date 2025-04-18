@@ -1,5 +1,3 @@
-    L2_MSG
-} from "@arbitrum/nitro-contracts/src/libraries/MessageTypes.sol";
 import "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/security/PausableUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/utils/StorageSlotUpgradeable.sol";
