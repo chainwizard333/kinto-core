@@ -1,4 +1,3 @@
-import "@arbitrum/nitro-contracts/src/libraries/DelegateCallAware.sol";
 import {
     L1MessageType_submitRetryableTx,
     L2MessageType_unsignedContractTx,
