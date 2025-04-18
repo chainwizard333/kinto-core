@@ -1,19 +1,3 @@
-    /// @inheritdoc IInboxBase
-    IBridge public bridge;
-    /// @inheritdoc IInboxBase
-    ISequencerInbox public sequencerInbox;
-
-    /// ------------------------------------ allow list start ------------------------------------ ///
-
-    /// @inheritdoc IInboxBase
-    bool public allowListEnabled;
-
-    /// @inheritdoc IInboxBase
-    mapping(address => bool) public isAllowed;
-
-    /// @dev mapping to whitelist contracts that do not need dusting check
-    mapping(address => bool) private l2AllowList;
-
     event AllowListAddressSet(address indexed user, bool val);
     event AllowListEnabledUpdated(bool isEnabled);
     event L2AllowListAddressSet(address indexed user, bool val);
