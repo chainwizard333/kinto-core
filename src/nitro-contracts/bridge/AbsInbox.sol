@@ -1,4 +1,3 @@
-import "@arbitrum/nitro-contracts/src/bridge/IInboxBase.sol";
 import "@arbitrum/nitro-contracts/src/bridge/ISequencerInbox.sol";
 import "@arbitrum/nitro-contracts/src/bridge/IBridge.sol";
 import "@arbitrum/nitro-contracts/src/libraries/AddressAliasHelper.sol";
