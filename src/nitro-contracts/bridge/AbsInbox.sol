@@ -1,4 +1,3 @@
-    event AllowListAddressSet(address indexed user, bool val);
     event AllowListEnabledUpdated(bool isEnabled);
     event L2AllowListAddressSet(address indexed user, bool val);
     event L2AllowListInitialized();
